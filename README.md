@@ -1,6 +1,6 @@
 # README
 
-## Hi there
+## Hi there 🤗
 Thanks for taking the time to check out the README for my simple Java demo app! In here I will tell you a little bit about the app and how you can get it running on your machine. 
 
 ## Development Info
