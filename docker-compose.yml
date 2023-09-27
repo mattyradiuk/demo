@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  db:
+    image: "postgres"
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: ttt
+      POSTGRES_USER: matt
+      POSTGRES_PASSWORD: admin
+  app:
+    build: .
+    ports:
+      - "9000:8080"
+    depends_on:
+      - db
