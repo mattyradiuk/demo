@@ -1,0 +1,10 @@
+com\ttt\demo\beans\VolunteersByJobIdResponse.class
+com\ttt\demo\controllers\ExceptionHandlerAdvice.class
+com\ttt\demo\services\VolunteerService.class
+com\ttt\demo\domain\entity\Volunteer.class
+com\ttt\demo\domain\entity\JobVolunteer.class
+com\ttt\demo\DemoApplication.class
+com\ttt\demo\controllers\VolunteerController.class
+com\ttt\demo\domain\entity\Job.class
+com\ttt\demo\beans\VolunteersListResponse.class
+com\ttt\demo\domain\repository\JobVolunteerRepository.class
